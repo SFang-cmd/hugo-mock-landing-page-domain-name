@@ -2,7 +2,7 @@
 
 Welcome to the repository for **Cristofori**, a modern, emotionally intelligent AI assistant landing page. Built with [Hugo](https://gohugo.io/) and the [Hugo Bootstrap Theme](https://github.com/filipecarneiro/hugo-bootstrap-theme), this project emphasizes speed, SEO, and elegant design.
 
-**Live Site:** [https://sfang-cmd.github.io/hugo-mock-landing-page-autodeployed/](https://sfang-cmd.github.io/hugo-mock-landing-page-autodeployed/)
+**Live Site:** [seanfang.click](https://seanfang.click)
 
 ---
 
